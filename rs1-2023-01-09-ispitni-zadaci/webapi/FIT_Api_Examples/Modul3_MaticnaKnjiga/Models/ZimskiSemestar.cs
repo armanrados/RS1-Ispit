@@ -8,6 +8,6 @@ namespace FIT_Api_Examples.Modul3_MaticnaKnjiga.Models
         public int godinaStudija { get; set; }
         public int akGodina { get; set; }
         public float cijenaSkolarine { get; set; }
-        public bool obnovaGodine { get; set; }
+        public bool obnova { get; set; }
     }
 }

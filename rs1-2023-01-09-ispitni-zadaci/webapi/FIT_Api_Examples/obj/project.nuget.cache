@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F6iMo0PpdALYmoF0EC9EbREfqzynzhaBHqp+0wmYO4P0hxr5UCP3VfSwsGy9jm0jKjggIAOuHa9sZKsPQHT+pA==",
+  "dgSpecHash": "vklvYdS9vV5aNEOHokJWmavFX0eWHpesMfPtgrTWAi5fx9KNVL1d2pIz+jhhg9p5MlygbhrxvRfG0PrUI+mTNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\IB180216\\rs1-2023-01-09-ispitni-zadaci\\webapi\\FIT_Api_Examples\\FIT_Api_Examples.csproj",
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\RS1-ISPIT\\rs1-2023-01-09-ispitni-zadaci\\webapi\\FIT_Api_Examples\\FIT_Api_Examples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Korisnik\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Korisnik\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
